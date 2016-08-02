@@ -1,0 +1,10 @@
+{
+  "name": "dashboard-api-test",
+  "version": "0.0.1",
+  "description": "my first chat api app",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.10.2",
+    "multer": "^1.1.0"
+  }
+}
